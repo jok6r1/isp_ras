@@ -1,1 +1,0 @@
-Detected vulnerabilities at BD
